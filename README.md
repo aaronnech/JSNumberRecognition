@@ -1,7 +1,7 @@
 JSNumberRecognition
 ===================
 
-Number recognition perception learning in JavaScript using NodeJS.
+Number recognition perceptron learning in JavaScript using NodeJS.
 
 To train run
     node train.js
